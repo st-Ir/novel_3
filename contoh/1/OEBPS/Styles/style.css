@@ -1,0 +1,153 @@
+body {
+  padding: 0;
+  margin: 0;
+  line-height: 1.2;
+  text-align: justify;
+}
+p {
+  text-indent: 2em;
+  font-family: serif;
+  display: block;
+  line-height: 1.3;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+a {
+  font-family: serif;
+  text-decoration: underline;
+}
+div {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
+  text-align: justify;
+}
+h1 {
+  font-family: serif;
+  font-size: 1.4em;
+  line-height: 1.2;
+  margin-top: 1em;
+  margin-bottom: 1.2em;
+  font-weight: bold;
+  text-align: center !important;
+}
+.cover {
+  margin: 0;
+  padding: 0;
+  text-indent: 0;
+  text-align: center !important;
+}
+.makertitle {
+  font-size: 1.3em;
+  text-indent: 0;
+  font-weight: bold;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+.infobox p {
+  text-indent: 0;
+  line-height: 1.1;
+  margin: 0;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+.infobox p.top {
+  border-top: 1px solid #333;
+  padding-top: 0.2em;
+}
+.infobox p.bottom {
+  border-bottom: 1px solid #333;
+  padding-bottom: 0.2em;
+}
+.bold {
+  font-weight: bold;
+}
+.in0 {
+  text-indent: 0;
+}
+.center {
+  text-align: center !important;
+  text-indent: 0;
+  display:block
+}
+.left {
+  text-align: left !important;
+  text-indent: 0;
+}
+.right {
+  text-align: right !important;
+  text-indent: 0;
+}
+.italic {
+  font-style: italic;
+}
+.oblique {
+  font-style: oblique;
+}
+.tdtop {
+  vertical-align: top;
+}
+.tdbottom {
+  vertical-align: bottom;
+}
+.tdmiddle {
+  vertical-align: middle;
+}
+.titlet1 {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  font-size: 1.6em;
+}
+.titlet2 {
+  font-size: 0.9em;
+}
+.titlet3 {
+  font-size: 0.85em;
+}
+.notetag {
+  font-size: 0.8em;
+  vertical-align: super;
+  font-weight: bold;
+  color: #960014;
+  text-decoration: none;
+
+}
+.po {
+  font-size: 0.9em;
+  color: #960014;
+}
+#toctitle {
+  color: #000;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+#toctable {
+  margin-left: auto;
+  margin-right: auto;
+  page-break-inside: auto;
+}
+.tocidprefix {
+  width: 4em;
+}
+.tocitem {
+  padding: 6px 0;
+}
+.tocitem a {
+  text-decoration: none;
+  color: #000;
+}
+ol {
+  list-style:none;
+}
+
+ol li {
+  padding: 0.215em;
+}
+
+.no-indent {
+  text-indent: 0em;
+}
+
+.tlnote-text {
+text-indent: none;
+}
